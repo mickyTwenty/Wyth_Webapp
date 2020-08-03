@@ -1,0 +1,10 @@
+.logo-img {
+    height: 38px;
+    margin-left: 10px;
+}
+
+.navbar .navbar-nav .nav-link {
+    color: #1f1f21!important;
+    font-size: 18px !important;
+    text-shadow: 1px 1px darkgreen;
+}
